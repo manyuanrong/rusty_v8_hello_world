@@ -5,4 +5,4 @@ authors = ["Enok <416828041@qq.com>"]
 edition = "2018"
 
 [dependencies]
-rusty_v8 = "0.0.15"
+rusty_v8 = "0.0.16"
